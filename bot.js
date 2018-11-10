@@ -81,5 +81,5 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`By X_KillerYT | K! `)//حقوق دايموند كودز
 client.user.setStatus("online")
-
+ 
 client.login(process.env.BOT_TOKEN);
